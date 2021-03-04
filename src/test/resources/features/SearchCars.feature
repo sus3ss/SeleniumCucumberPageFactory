@@ -18,7 +18,7 @@ When I move to the menu
     And Select price as "$1,000" from price dropdown
     And click on Find_My_Next_Car button
 Then I should see list of searched cars
-And the page title should be "Bmw 1 Series Under 1000 for Sale NT | carsguide"    
+And the page title should be "Bmw 2 Series Under 1000 for Sale NT | carsguide"    
 	
     
     
